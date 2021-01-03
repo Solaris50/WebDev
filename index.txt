@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Sun</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="description" content = "This you get to put what you want">
+</head>
+ 
+<body>
+  <header>  
+    <img src="Images/SunThapaSign.png" alt="SunThapaLogo" class="logo"> 
+    <nav>
+      <ul class="menu-area">
+        <li><a href="#">Home~</a></li>
+        <li><a href="#">About Me^</a></li>
+        <li><a href="#">Projects^</a></li>
+        <li><a href="#">Experience^</a></li>
+        <li><a href="#">Contact^</a></li>
+      </ul>
+    </nav>
+ </header>
+ 
+<section class="home-hero">
+  <div class="container container-full">
+    <h1 class="title"> 
+      <div class="dash">
+        <img src="Images/Red_Dash.png" alt="Red_Dash">
+      </div><p class="tab">Hello, I'm Sun Thapa<span><br>Computer Engineering Student.</span></p></h1>
+    <a href="" class= "button button-accent">Contact Me</a> 
+  </div>
+</section>
+ 
+<div class="container">
+<section class="home-about">
+  <div class="home-about-textbox">
+    <h1>Welcome!</h1>   
+  <div class="home-about-text">
+    <p>This will be a paragraph on me and cool or boring stuff about me. Now there is more fashion. There is no so-called trends. Now chase after anything not necessary – nor for fashionable color nor the shape, nor for style. Here choose yourself like that, without any looking back, do your personal, home, small fashion, and all will well.</p>
+  </div>
+  </div>
+  <img src="Images/Logo.png" alt="BigLogo" class="logo1">
+</section>
+</div>
+ 
+<div class="container">
+  <section class="home-skills">
+  <div class="skills-col">
+    <h1>Skills</h1>
+    <ul> 
+      <li>Coding</li>
+      <li>Website Design</li>
+      <li>Robotics</li>
+    </ul>
+  </div>
+ 
+  <div class="interests-col">
+    <h1>Interests</h1>
+    <ul>
+      <li>Robotics</li>
+      <li>Basketball</li>
+      <li>Badminton</li>
+    </ul>
+  </div>
+</div>
+</section>
+ 
+<section class="starting">
+  <h2> This is just the tip of the iceberg <span> So feel free to explore, thanks!</span></h2>
+</section>
+ 
+<footer>
+  <div class="col-1">
+  <img src="Images/SunThapaSign.png" alt="SunThapaLogo" class="logo">
+  </div>
+ 
+  <div class="col-2">
+  <ul> 
+    <li><strong>Quick Links</strong></li>
+    <li>About</li>
+    <li>Contact</li>
+    <li>Projects</li>
+    <li>Experience</li>
+  </ul>
+</div>
+ 
+<div class="col-3">
+  <img src="">
+  <img src="">
+  <img src="">
+</div>
+ 
+</footer>
+</body>
+</html>
